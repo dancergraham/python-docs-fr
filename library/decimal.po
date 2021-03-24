@@ -583,6 +583,9 @@ msgid ""
 "`Decimal` instance as a fraction, in lowest terms and with a positive "
 "denominator::"
 msgstr ""
+"Renvoie une paire ``(n, d)`` de :class:`Int`s qui représentent l'instance :class:"
+"`Decimal` comme fraction, avec les plus petites valeurs possibles et avec "
+"un dénominateur positif::"
 
 #: library/decimal.rst:468
 msgid ""
@@ -597,6 +600,7 @@ msgid ""
 "Return a :term:`named tuple` representation of the number: "
 "``DecimalTuple(sign, digits, exponent)``."
 msgstr ""
+"Renvoie une representation :term:`named tuple` du numéro : "
 
 #: library/decimal.rst:481
 msgid ""
@@ -604,6 +608,9 @@ msgid ""
 "a :class:`Decimal` instance is always canonical, so this operation returns "
 "its argument unchanged."
 msgstr ""
+"Renvoie l'encodage canonique de l'argument.  Actuellement l'encodage d'une "
+"instance :class:`Decimal` est toujours canonique, donc cette opération "
+"renvoie son argument inchangé."
 
 #: library/decimal.rst:487
 msgid ""
