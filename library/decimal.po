@@ -562,6 +562,8 @@ msgid ""
 "In addition to the standard numeric properties, decimal floating point "
 "objects also have a number of specialized methods:"
 msgstr ""
+"en plus que les propriétés standards numériques, les objets ``decimal`` "
+"possèdent plusieurs méthodes spécialisées :"
 
 #: library/decimal.rst:454
 msgid ""
@@ -570,6 +572,10 @@ msgid ""
 "returns seven.  Used for determining the position of the most significant "
 "digit with respect to the decimal point."
 msgstr ""
+"Renvoie l'exposant ajusté après décalage des chiffres de droit "
+"jusqu'à ce que seul le premier chiffre reste : ``Decimal('321e+5').adjusted()`` "
+"renvoie ``7``.  Utilisé pour identifier la position du chiffre le plus "
+"signifiant par rapport au décimal."
 
 #: library/decimal.rst:461
 msgid ""
