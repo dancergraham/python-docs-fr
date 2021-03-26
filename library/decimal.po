@@ -617,6 +617,8 @@ msgid ""
 "Compare the values of two Decimal instances.  :meth:`compare` returns a "
 "Decimal instance, and if either operand is a NaN then the result is a NaN::"
 msgstr ""
+"Comparer les deux instances Decimal.  :meth:`compare` renvoie une instance "
+"Decimal et, si l'un des opérands est un NaN alors le résultat est un NaN::"
 
 #: library/decimal.rst:498
 msgid ""
